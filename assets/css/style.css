@@ -74,7 +74,7 @@ input:focus {
 }
 
 .btn:hover {
-    background-color: #0056b3;
+    background-color: #0056b2;
     transform: scale(1.05);
 }
 
@@ -83,7 +83,7 @@ input:focus {
 }
 
 .entrar-link a {
-    color: #007bff;
+    color: #027bfd;
     text-decoration: none;
 }
 
@@ -119,19 +119,19 @@ input:focus {
 }
 
 .btn-google {
-    background-color: #dd4437;
+    background-color: #d84436;
 }
 
 .btn-google:hover {
-    background-color: #c0321f;
+    background-color: #c02f1c;
 }
 
 .btn-facebook {
-    background-color: #4065ad;
+    background-color: #3f64af;
 }
 
 .btn-facebook:hover {
-    background-color: #345799;
+    background-color: #315290;
 }
 
 @media (max-width: 1024px) {
